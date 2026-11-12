@@ -2,7 +2,7 @@
 
 A browser-based 3D voxel sandbox game featuring a 1,000-block world (-500 to +500), mountain ranges, snow biomes, crafting, and hostile mobs.
 
-🎮 **[Play Copycraft Live](https://github.io)**
+🎮 **[Play Copycraft Live]([https://jeremyrichardsswaby-coder.github.io/Copycraft/])**
 
 ## Features
 - **Expansive 3D World**: Explore a 1000x1000 block terrain with mountains, snow, and deep bedrock (-500).
